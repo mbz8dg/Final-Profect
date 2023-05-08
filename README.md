@@ -18,5 +18,6 @@ o A NoSQL database like MongoDB, Redis, Cassandra or HBase ->  dim_customer
 o A Cloud file system like Azure Data Lake, AWS S3 hosting file-base data (e.g., JSON, CSV) o An API that returns a message payload (e.g., JSON, CSV, text) optional ->  dim_staff
 
 • Your solution must include at least 1 fact table that captures the business process transactions ->  fact_rentals
+
 • Your solution must integrate datum of differing granularity (static and near real-time); i.e.,
 implement Databricks structured streaming to integrate hot-path and cold-path data. -> this is implemented using spark.readstream and the autoloader.
