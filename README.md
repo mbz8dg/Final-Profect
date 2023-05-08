@@ -1,7 +1,7 @@
 # Final-Project
-######This is my final project for DS 2002. It outlines the business process of a movie rental business using the sakila database. The solution meets all stated requirments.
+###### This is my final project for DS 2002. It outlines the business process of a movie rental business using the sakila database. The solution meets all stated requirments.
 
-#####Requirements:
+##### Requirements:
 Your solution (database schema) needn’t be complex, but should meet the following requirements:
 • Your solution must include a Date dimension to enable the analysis of the business process over various intervals of time (the code for creating this in MySQL has already been provided for you).
 • Your solution must include at least 3 additional dimension tables
